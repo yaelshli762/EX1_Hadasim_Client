@@ -1,3 +1,32 @@
+# Overview
+This react application represets a HMO (Health Maintenance Organization) client interface.
+# How to run this project on your computer
+- Clone the repository to a local folder in your computer.
+- Open the VS Code, nevigated to the local repository path.
+- Open New Terminal.
+- Run `npm i`. (That will install the necessary packages.)
+- Rum `npm start`.
+**Notice**
+The .net application must be running while you run the react app.
+
+# User Guide (With Screenshots)
+- Home Page - Contains the list of all patients in the HMO.
+  Each patient can be removed ("מחק"), updated ("עדכן"), and you can see the corona details for each patient.
+![צילום מסך 2024-03-28 092055](https://github.com/yaelshli762/EX1_Hadasim_Client/assets/135145515/83dbd5d8-6ede-4489-825a-865fe96eb725)
+- Update a patient.
+The update will happen after clicking the button ("עדכן")
+![צילום מסך 2024-03-28 092114](https://github.com/yaelshli762/EX1_Hadasim_Client/assets/135145515/3798efba-96f1-44f8-9162-d3c2ac05c0fe)
+- Update corona details for patient.
+The update will happen after clicking the button ("עדכן")
+![image](https://github.com/yaelshli762/EX1_Hadasim_Client/assets/135145515/37843b0e-53ac-4af5-b609-6d3c8458b31d)
+
+- Add new patient.
+The adding will happen after clicking the button ("הוסף")
+![צילום מסך 2024-03-28 092238](https://github.com/yaelshli762/EX1_Hadasim_Client/assets/135145515/2c96c728-6d23-49b1-a1d3-a42f3a0b6213)
+- Delete patient.
+The deleting will happent after clicking the button ("מחק").
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
